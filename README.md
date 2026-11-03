@@ -1,5 +1,4 @@
 # ML_Final_Project  
 Machine Learning I final project DS 6030  
-Request access then download dataset from Google Drive: https://drive.google.com/file/d/1kpc3bY1vr0_IF1qQhN3vYmaXIIzNAaO7/view?usp=drive_link  
-  
-
+Request access then download dataset from: https://botometer.osome.iu.edu/bot-repository/datasets.html   
+Download verified-2019 (All humans) and botwiki-2019 (All bots)

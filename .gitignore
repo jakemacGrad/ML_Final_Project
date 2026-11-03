@@ -1,6 +1,15 @@
 id_tweet*
+
 *.json
 id_tweet.json/
 *.csv
 .env
 *.env
+*.gz
+*.zip
+*.tar
+*.tsv
+verified-2019.tsv
+botwiki-2019_tweets.json
+verified-2019_tweets.json
+verified-2019.tsv
