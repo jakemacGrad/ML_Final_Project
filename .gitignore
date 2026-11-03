@@ -1,0 +1,6 @@
+id_tweet*
+*.json
+id_tweet.json/
+*.csv
+.env
+*.env
